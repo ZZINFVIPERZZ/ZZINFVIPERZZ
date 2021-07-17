@@ -1,0 +1,52 @@
+Yes, edit them.
+
+start Admin.exe
+
+add.admin: "steam:110000145564ea4":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":
+
+
+add.admin: "SteamIDHere":

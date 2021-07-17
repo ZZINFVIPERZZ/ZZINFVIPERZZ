@@ -1,0 +1,68 @@
+/goto <playerID> Teleports you to the specified player id.
+/gethere <playerID> Teleports the specified player id to you.
+/announce <text> Displays a gametext for all players to see.
+/say <text> Displays a message in the chat in the format "**Admin Corsa: <text>"
+/flip Makes your vehicle flip. If it were to be upside down use this command to unflip you vehicle.
+/slap <playerID> Shows slap message in the chat window and takes 20% of the specified player id's health.
+/wire <playerID> Wires a players and mutes them gives them 3 chances if they try to type a message they will be auto kicked from the server.
+/unwire <playerID> Unwires the specifed player id.
+/kick <playerID> Kicks the player from the game without banning them permanently. A player is free to return to the game if they rejoin the server.
+/ban <playerID> Bans the players IP address from GTA-Gaming Server.
+/akill <playerID> Kills the specified Player.
+/eject <playerID> ejects the specified player from there vehicle.
+/freeze <playerID> Freezes the specified player.
+/unfreeze <playerID> Unfreezes the specified player.
+/outside puts everyone that is in the server outside.
+/healall heals everyone.
+/givehealth <playerID> <1-100> Gives the player the specified amount of health <1-100>.
+/sethealth <playerID> <0-100> Sets the players health to the specifed ammount of health <0-100>.
+/giveallweapon <weaponID> Gives all the players the specified weapon.
+/resetallweapons Resets all the players weapons.
+/ejectall Ejects all the players from there vehicles.
+/freezeall Freezes all the players.
+/unfreezeall Unfreezes all the players.
+/giveweapon <playerID> <weaponID> Gives the specified player the specified weapon.
+/resetscores Resets all the players scores.
+/setlevel <playerID> Sets the players level to the specified level.
+/setskin <playerID> <skinID> Sets the players skin to a specified skin id.
+/midnight Sets everyones time to midnight.
+/morning Sets everyones time to morning.
+/noon Sets everyones time to noon.
+/evening Sets everyones time to evening
+/setcash <playerID> <1 - 1,000,000> Sets the players cash to the specified amount of cash.
+/givecash <playerID> <1 - 1,000,000> Gives the player the spicified amount of cash.
+/remcash <playerID> <1 - 1,000,000> Removes the players cash with the specified amount of cash.
+/setallcash <1 - 1,000,000> Sets all the players cash to the specified amount of cash.
+/giveallcash <1 - 1,000,000> Gives all the players cash to the specified amount of cash.
+/remallcash <1 - 1,000,000> Removes the specified amount of cash from all the players.
+/resetallcash Resets all teh players cash.
+/givearmour <playerID> <1-100> Gives the player the specified amount of armour.
+/setarmour <playerID> <1-100> Sets the players armour to the specified amount.
+/armourall Gives all the players 100% armour.
+/setammo <playerID> <WeaponSlot> <1-10,000> Sets the specified player id's ammo to the specified amount of ammo.
+/setscore <playerID> <1-10,000> Sets the specified player id's score to the specified score.
+/ip <playerID> Displays the ip adress of the specified player.
+/ping <playerID> Displays the ping of the specified player.
+/explode <playerID> Explodes the specified player.
+/settime <playerID> <Hour> <Minute> Sets the players time to the specified time.
+/setalltime <Hour> <Minute> Sets all player times to the specified time.
+/force <playerID> Forces the player to the player selection screen to select a new player class.
+/setwanted <playerID> <0-6> Sets the specified players wanted level to the specified wanted level <0-6>.
+/setallwanted <0-6> Sets all players wanted level to the specified wanted level <0-6>.
+/setworld <playerID> <Virt. World ID> Sets the specified player to a virtual world with the specified world id.
+/setallworld <Virt. World ID> Sets all players to a virtual world with the specified world id.
+/setgravity <-50.0 - 50.0> Sets the gravity for all players to the specified value. The normal gravity setting is 0.008 - be careful with changing gravity as very high settings will cause players to die on spawn. Low gravity settings cause people flying planes or helicopters to drift upwards without control.
+/xlock Locks your vehicle.
+/xunlock Unlocks your vehicle.
+/carcolor <0-126> <0-126> changes your car colors.
+/gmx Restarts the server.
+/carhealth <playerID> <0-1000> sets teh car health of teh specified player and the specified health <0-1000>.
+/giveme A vehicle menu u can select a vehicle from to spawn (note: some vehicles will crash server because the server vehicle model limit is already reached on the server.
+/givecar Gives you a menu you can add Nos, hydrolics, weels, ect to your car.
+/xjail <playerID> Jails the specified player (this command is lvl 4 only cuz it is a buggy command to use.)
+/xunjail <playerID> Unjails the specified player.
+/xcommands Shows all the Admin commands.
+/vr Repairs your vehicle 100% .
+/weather Gives you a menu u can select a weather from.
+/adminmode Gives you God mode minigun, infinit health, and a Admin skin.
+
